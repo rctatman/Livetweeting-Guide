@@ -1,5 +1,10 @@
 Rachael Tatman's Guide to Conference Livetweeting
 ===================
+{:.no_toc}
+
+I've gotten quite a few requests from folks for a guide to livetweeting cofenreces.
+
+I'm @rctatman on [Twitter](https://twitter.com/rctatman) and [Github](https://github.com/rctatman).
 
 * TOC
 {:toc}
