@@ -16,7 +16,7 @@ Livetweeting can mean a lot of different things & everyone does it slightly diff
 2. It helps authors disseminate their research.
 3. It allows researchers who can't attend a conference I'm at, whether for financial or geographic reasons, to keep up with the current research and join in the conversation.
 4. It helps get research out to the public (albeit mainly the part of the public who follows nerds like me on Twitter).
-5. Having a semi-congruent text record of the main points of a talk improves accessibility for listeners who may have a hard time understanding the speaker (due to, for example, hearing impairment or lack of familiarity with the author's language variety, but do note that livetweeting is NOT A REPLACEMENT for signed languages interpretation.)
+5. Having a semi-congruent text record of the main points of a talk improves accessibility for listeners who may have a hard time understanding the speaker due to, for example, hearing impairment or lack of familiarity with the author's language variety. (Do note, however, that livetweeting is NOT A REPLACEMENT for signed languages interpretation.)
 
 Especially recently, I've gotten a number of requests for help and tips on how to livetweet. It's very much a learned skill, and it will take time to get better at, but below I've compiled some pointers that will help you livetweet conference talks.
 
@@ -24,7 +24,7 @@ Especially recently, I've gotten a number of requests for help and tips on how t
 
 The basic format I used for livetweeting is this:
 
-1. AuthorLastName: Title of talk#conferenceHashtag
+1. AuthorLastName: Title of talk #conferenceHashtag
 2. [as a reply to the first tweet] AuthorLastName: content of talk (my note: my comments) #conferenceHashtag
 3. Repeat 2 as needed
 
@@ -37,7 +37,7 @@ Each part of this formatting has a motivation.
 3. *Starting with the title*: This makes the content of the thread clear, and makes it easier for you to search later. (You can request and download your own complete Twitter history at any time.) Also, if the conference has a proceedings it makes it easier for someone to look up the specific paper.
 4. *The conference hashtag*: This organizes your tweets, helps others find the work if they're interested in finding out more and lets other conference attendees find your tweets. If you're quite positive that there isn't one already established, you can start your own. The most popular format is the acronym for the conference and either the year it takes place (for example: #EACL2017) or the number of the conference (ex: #NWAV44). Hashtags are not case-sensitive.
 
-You can use whatever format you like, though, as long as you're consistent! To help people follow along, I have a quick summary of my tweet formatting conventions as my pinned tweet (one tweet that always appears as the top tweet of your Twitter profile):
+You can use whatever format you like, though, as long as you're consistent! To help people follow along, I have a quick summary of my tweet formatting conventions as [my pinned tweet](https://twitter.com/rctatman/status/818493834891931648) (one tweet that always appears as the top tweet of your Twitter profile).
 
 I'm currently alpha-testing an Android app that automates some of my formatting, and I'll be sure to share it once the developer's ready to release it.
 
@@ -47,7 +47,7 @@ Here are some basic guidelines I try to keep in mind when tweeting.
 
 - **Each tweet should ideally be able to stand on its own**, since retweets don't have context & things that don't require context are more likely to be retweeted.
 - **Try to imagine what you'll want to remember about this talk in six months**, and then tweet those things.
-- **Consider your audience** (both in terms of your Twitter followers & who will be following the hashtag). Will they be able, for example, to figure out whether LDA Is linear discriminant analysis or latent Dirichlet analysis from context?
+- **Consider your audience** (both in terms of your Twitter followers & who will be following the hashtag). Will they be able, for example, to figure out whether LDA is Linear Discriminant Analysis or Latent Dirichlet Allocation from context?
 - **Always tweet useful links the author put in their slides**, especially code or datasets. Start typing these the moment they show up on the screen; people almost never leave links up long enough for you to take your time. Once you've got it, you can copy and paste it at your leisure.
 - **Make clear what are your comments and what are the author's**. If you have a lot of comments on a paper, you might consider retweeting/quoting the first tweet of the thread and start a new thread of just your comments/reactions.
 - **If you make a mistake (it's ok, everyone does it), tweet a correction**.
@@ -58,10 +58,10 @@ Here are some basic guidelines I try to keep in mind when tweeting.
 
 - Keep a second tab open to the hashtag for the conference (search for it on Twitter, then sort by “latest” rather than “top” and check in on it every so often to make sure you're not duplicating someone else's tweets.)
 - You'll usually have the most tweets at the beginning/end of a talk, for the context and the takeaway. 
-- Including pictures of slides (especially figures) can be faster than trying to type conclusions, but be mindful of avoiding including people's faces, and be aware that unless you manually add an image description it won't be accessible to folks using screen readers. (You can turn on the ability to add image descriptions in the accessibility portion of your Twitter options & it would recommend doing so. If nothing else, you're helping to build a high-quality database of image captions ;)
+- Including pictures of slides (especially figures) can be faster than trying to type conclusions, but be mindful of avoiding including people's faces, and be aware that unless you manually add an image description it won't be accessible to folks using screen readers. (You can turn on the ability to add image descriptions in the accessibility portion of your Twitter options & I would recommend doing so. If nothing else, you're helping to build a high-quality database of image captions ;)
 - If someone asks a question on Twitter, I will (usually) relay it to the speaker and then tweet the reply.
 
-### What shouldn't you livetweet?
+### What *shouldn't* you livetweet?
 
 There are some things that I make a policy of not including when I livetweet, and I would recommend you do the same. 
 
@@ -83,13 +83,13 @@ One of the unique challenges of tweeting as a medium is the strict character lim
 - Make sure you don't have any trailing spaces
 - Drop function words like pronouns & articles (you can look at newspaper headlines for some examples of how this can be done)
 	- “the final model included...” → “final model included...”
-  - "then we fitted the model to...” → “model fit to...”- 
+	- "then we fitted the model to...” → “model fit to...”- 
 - Replace “and” with “&” and “or” with “/” (where appropriate)
-	-	“age and gender were both...” → “age & gender both”
+	- “age and gender were both...” → “age & gender both”
 - Instead of using commas for a list, split it over multiple lines. Newline = one character, space + comma = two characters
 - Cut agentive & redundant language
 	- “the authors looked at the effect” → “the effect of X was”
-	- “feature selection for the model was done by” → “feature selection = ”
+	- “feature selection for the model was done by...” → “feature selection =...”
 - Cut your content over multiple tweets, but make it clear that there's intended overlap (numbered list, ending the first tweet & starting the second with ellipses”
 	- “Three main findings = 1)...”, and then in the next tweet “2).... 3)...”
 - Finally, you can use abbreviations, but be careful about introducing ambiguity
