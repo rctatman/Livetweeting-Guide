@@ -1,5 +1,9 @@
 ## Rachael Tatman's Guide to Conference Livetweeting
 
+Contents:
+
+- [General guidelines](generalGuidelines)
+
 ### What is livetweeting and why do it?
 In case you didn't know, I regularly livetweet conferences I go to. You can see some examples of what this looks like on my Twitter, [here](https://twitter.com/rctatman/moments).
 
@@ -13,7 +17,7 @@ Livetweeting can mean a lot of different things & everyone does it slightly diff
 
 Especially recently, I've gotten a number of requests for help and tips on how to livetweet. It's very much a learned skill, and it will take time to get better at, but below I've compiled some pointers that will help you livetweet conference talks.
 
-### Formatting livetweets
+### Formatting livetweets {formatting}
 
 The basic format I used for livetweeting is this:
 
@@ -34,7 +38,7 @@ You can use whatever format you like, though, as long as you're consistent! To h
 
 I'm currently alpha-testing an Android app that automates some of my formatting, and I'll be sure to share it once the developer's ready to release it.
 
-### General guidelines:
+### General guidelines: {generalGuidelines}
 
 Here are some basic guidelines I try to keep in mind when tweeting.
 
