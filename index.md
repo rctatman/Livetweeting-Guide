@@ -45,14 +45,14 @@ I'm currently alpha-testing an Android app that automates some of my formatting,
 
 Here are some basic guidelines I try to keep in mind when tweeting.
 
-- Each tweet should ideally be able to stand on its own, since retweets don't have context & things that don't require context are more likely to be retweeted.
-- Try to imagine what you'll want to remember about this talk in six months, and then tweet those things.
-- Consider your audience (both in terms of your Twitter followers & who will be following the hashtag). Will they be able, for example, to figure out whether LDA Is linear discriminant analysis or latent Dirichlet analysis from context?
-- Always tweet useful links the author put in their slides, especially code or datasets. Start typing these the moment they show up on the screen; people almost never leave links up long enough for you to take your time. Once you've got it, you can copy and paste it at your leisure.
-- Make clear what are your comments and what are the author's. If you have a lot of comments on a paper, you might consider retweeting/quoting the first tweet of the thread and start a new thread of just your comments/reactions.
-- If you make a mistake (it's ok, everyone does it), tweet a correction.
-- Use a real keyboard. I can tweet from my phone, but it's much harder.
-- Have a paper program next to you so you can quickly double-check the spelling of names.
+- **Each tweet should ideally be able to stand on its own**, since retweets don't have context & things that don't require context are more likely to be retweeted.
+- **Try to imagine what you'll want to remember about this talk in six months**, and then tweet those things.
+- **Consider your audience** (both in terms of your Twitter followers & who will be following the hashtag). Will they be able, for example, to figure out whether LDA Is linear discriminant analysis or latent Dirichlet analysis from context?
+- **Always tweet useful links the author put in their slides**, especially code or datasets. Start typing these the moment they show up on the screen; people almost never leave links up long enough for you to take your time. Once you've got it, you can copy and paste it at your leisure.
+- **Make clear what are your comments and what are the author's**. If you have a lot of comments on a paper, you might consider retweeting/quoting the first tweet of the thread and start a new thread of just your comments/reactions.
+- **If you make a mistake (it's ok, everyone does it), tweet a correction**.
+- **Use a real keyboard**. I can tweet from my phone, but it's much harder.
+- **Have a paper program** next to you so you can quickly double-check the spelling of names.
 
 ### How and when to tweet
 
