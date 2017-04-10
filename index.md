@@ -106,4 +106,4 @@ One of the unique challenges of tweeting as a medium is the strict character lim
 
 Gretchen McCulloch, [well-known internet linguist](http://allthingslinguistic.com/) and all-around cool person, has a great guide for getting started on Twitter & adivce on livetweeting [here](https://medium.com/@gretchenamcc/how-to-go-from-i-just-don-t-get-twitter-to-twitter-maven-in-30-days-bdbab2ad7783). 
 
-Joanna Bryson has a good discussion of some of the benefits (and possiblel drawbakcs) of livetweeting in a blog post [here](https://joanna-bryson.blogspot.com/2014/08/in-defense-of-live-tweeting-at-talks.html#!).
+Joanna Bryson has a good discussion of some of the benefits (and possible drawbacks) of livetweeting in a blog post [here](https://joanna-bryson.blogspot.com/2014/08/in-defense-of-live-tweeting-at-talks.html#!).
