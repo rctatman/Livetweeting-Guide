@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Rachael Tatman's Guide to Conference Livetweeting
 
 ### What is livetweeting and why do it?
 
@@ -26,12 +26,14 @@ Each part of this formatting has a motivation.
 
 1. Threading tweets: Threading refers to a chain of tweets where each tweet is a reply to the one before it. This has several advantages. The first is that it keeps your followers' feed tidy. Since Twitter automatically collapses the middle of long threads, you're not taking up as much space as you would if you made each tweet individually. This also clearly maintains the chronological relationship of the  tweets, so anyone can read the thread and follow the course of the talk. 
 2. Putting the author's last name in front of every tweet: since tweets can be retweeted individually, even if they're in a thread, this allows others to retweet the parts they find relevant/interesting while still clearly crediting the author.
-1. Two authors: If the paper has two authors, I use the “LastName1 & LastName2”.
-2. More than two authors: If a paper has more than two authors, I use “LastName1 et al”.
+	1. Two authors: If the paper has two authors, I use the “LastName1 & LastName2”.
+	2. More than two authors: If a paper has more than two authors, I use “LastName1 et al”.
 3. Starting with the title: This makes the content of the thread clear, and makes it easier for you to search later. (You can request and download your own complete Twitter history at any time.) Also, if the conference has a proceedings it makes it easier for someone to look up the specific paper.
 4. The conference hashtag: This organizes your tweets, helps others find the work if they're interested in finding out more and lets other conference attendees find your tweets. If you're quite positive that there isn't one already established, you can start your own. The most popular format is the acronym for the conference and either the year it takes place (for example: #EACL2017) or the number of the conference (ex: #NWAV44). Hashtags are not case-sensitive.
 
-You can use whatever format you like, though, as long as you're consistent! To help people follow along, I have a quick summary of my tweet formatting conventions as my pinned tweet (one tweet that always appears as the top tweet of your Twitter profile). I'm currently alpha-testing an Android app that automates some of my formatting, and I'll be sure to share it once the developer's ready to release it.
+You can use whatever format you like, though, as long as you're consistent! To help people follow along, I have a quick summary of my tweet formatting conventions as my pinned tweet (one tweet that always appears as the top tweet of your Twitter profile):
+
+I'm currently alpha-testing an Android app that automates some of my formatting, and I'll be sure to share it once the developer's ready to release it.
 
 ### General guidelines:
 
@@ -56,15 +58,16 @@ Here are some basic guidelines I try to keep in mind when tweeting.
 ### What shouldn't you livetweet?
 
 There are some things that I make a policy of not including when I livetweet, and I would recommend you do the same. 
-Don't tweet pictures in which someone is identifiable without their consent.  A good rule of thumb is not to tweet a photo with anyone's face unless they tell you it's ok. Some people don't want their image on-line, and it's far better to assume that that's the case for everyone than, for example, unintentionally reveal someone's exact location to an abuser.
-On a similar note, I sometimes replace the authors' last name in a tweet with their Twitter handle (with a dot in front, .@twitterHandle, so that the whole name is shown in the tweet), but if and only if:
-I'm 100% sure it's actually the author's Twitter account. That's not as easy as it sounds, especially for relatively common names!
-It's easy to find by searching the author's professional name on Twitter. (People with usernames that aren't easy to link to their name usually have a reason for that.)
-It's a professional Twitter account. You can usually tell if the top dozen tweets are all or mostly related to research.
-It's relatively active. If they haven't tweeted since 2010, linking their account to a talk they've given probably isn't going to be helpful for anyone.
-Respect people's boundaries, even if they're unspoken. If you're not sure, err on the side of not tagging someone.
-Don't tweet preliminary or unfinished work.
-A good general rule is “Tweet unto others as you would have them tweet unto you”, and then err even a little more on the side of caution.
+
+- Don't tweet pictures in which someone is identifiable without their consent.  A good rule of thumb is not to tweet a photo with anyone's face unless they tell you it's ok. Some people don't want their image on-line, and it's far better to assume that that's the case for everyone than, for example, unintentionally reveal someone's exact location to an abuser.
+- On a similar note, I sometimes replace the authors' last name in a tweet with their Twitter handle (with a dot in front, .@twitterHandle, so that the whole name is shown in the tweet), but if and only if:
+	- I'm 100% sure it's actually the author's Twitter account. That's not as easy as it sounds, especially for relatively common names!
+	- It's easy to find by searching the author's professional name on Twitter. (People with usernames that aren't easy to link to their name usually have a reason for that.)
+	- It's a professional Twitter account. You can usually tell if the top dozen tweets are all or mostly related to research.
+	- It's relatively active. If they haven't tweeted since 2010, linking their account to a talk they've given probably isn't going to be helpful for anyone.
+	- Respect people's boundaries, even if they're unspoken. If you're not sure, err on the side of not tagging someone.
+- Don't tweet preliminary or unfinished work.
+- A good general rule is “Tweet unto others as you would have them tweet unto you”, and then err even a little more on the side of caution.
 
 ### How to shorten tweets that are too long
 
@@ -73,24 +76,24 @@ One of the unique challenges of tweeting as a medium is the strict character lim
 - Remove periods at the end of the tweet
 - Make sure you don't have any trailing spaces
 - Drop function words like pronouns & articles (you can look at newspaper headlines for some examples of how this can be done)
-  “the final model included...” → “final model included...”
-  "then we fitted the model to...” → “model fit to...”- 
+	- “the final model included...” → “final model included...”
+  - "then we fitted the model to...” → “model fit to...”- 
 - Replace “and” with “&” and “or” with “/” (where appropriate)
-- - “age and gender were both...” → “age & gender both”
+	-	“age and gender were both...” → “age & gender both”
 - Instead of using commas for a list, split it over multiple lines. Newline = one character, space + comma = two characters
 - Cut agentive & redundant language
-- - “the authors looked at the effect” → “the effect of X was”
-- - “feature selection for the model was done by” → “feature selection = ”
+	- “the authors looked at the effect” → “the effect of X was”
+	- “feature selection for the model was done by” → “feature selection = ”
 - Cut your content over multiple tweets, but make it clear that there's intended overlap (numbered list, ending the first tweet & starting the second with ellipses”
-- - “Three main findings = 1)...”, and then in the next tweet “2).... 3)...”
+	- “Three main findings = 1)...”, and then in the next tweet “2).... 3)...”
 - Finally, you can use abbreviations, but be careful about introducing ambiguity
-- - “including lg info improved...” Is “lg” language? Linguistic?
+	- “including lg info improved...” Is “lg” language? Linguistic?
 
 ### How to get better at livetweeting 
 
 -  Practice! I know it's trite, but it's true. You can try livetweeting talks from your field that have been posted on YouTube as a nice, low-stakes way to practice. Some channels that might be useful for this:
-- - [The University of Washington's Computer Science & Engineering department] (https://www.youtube.com/user/UWCSE)
-- - [MIT's linguistic department] (https://www.youtube.com/user/MITLINGUISTICS)
+	- [The University of Washington's Computer Science & Engineering department] (https://www.youtube.com/user/UWCSE)
+	- [MIT's linguistic department] (https://www.youtube.com/user/MITLINGUISTICS)
 - Follow the hashtags of conferences you're interested in, or look back at the ones from previous years. Notice what you find helpful  & what you don't.
 
 ### Other resources
