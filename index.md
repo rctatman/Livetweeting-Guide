@@ -2,7 +2,7 @@ Rachael Tatman's Guide to Conference Livetweeting
 ===================
 {:.no_toc}
 
-I've gotten quite a few requests from folks for a guide to livetweeting cofenreces, so here it is! Feel free to contact me if you have any questions or concerns. (I'm @rctatman on [Twitter](https://twitter.com/rctatman) and [Github](https://github.com/rctatman).)
+I've gotten quite a few requests from folks for a guide to livetweeting conferences, so here it is! Feel free to contact me if you have any questions or concerns. (I'm @rctatman on [Twitter](https://twitter.com/rctatman) and [Github](https://github.com/rctatman).)
 
 * TOC
 {:toc}
@@ -16,7 +16,7 @@ Livetweeting can mean a lot of different things & everyone does it slightly diff
 2. It helps authors disseminate their research.
 3. It allows researchers who can't attend a conference I'm at, whether for financial or geographic reasons, to keep up with the current research and join in the conversation.
 4. It helps get research out to the public (albeit mainly the part of the public who follows nerds like me on Twitter).
-5. Having a semi-congruent text record of the main points of a talk improves accessibility for listeners who may have a hard time understanding the speaker (due to, for example, hearing impairment or lack of familiarity with the author's language variety)1.
+5. Having a semi-congruent text record of the main points of a talk improves accessibility for listeners who may have a hard time understanding the speaker (due to, for example, hearing impairment or lack of familiarity with the author's language variety, but do note that livetweeting is NOT A REPLACEMENT for signed languages interpretation.)
 
 Especially recently, I've gotten a number of requests for help and tips on how to livetweet. It's very much a learned skill, and it will take time to get better at, but below I've compiled some pointers that will help you livetweet conference talks.
 
@@ -30,18 +30,18 @@ The basic format I used for livetweeting is this:
 
 Each part of this formatting has a motivation. 
 
-1. Threading tweets: Threading refers to a chain of tweets where each tweet is a reply to the one before it. This has several advantages. The first is that it keeps your followers' feed tidy. Since Twitter automatically collapses the middle of long threads, you're not taking up as much space as you would if you made each tweet individually. This also clearly maintains the chronological relationship of the  tweets, so anyone can read the thread and follow the course of the talk. 
-2. Putting the author's last name in front of every tweet: since tweets can be retweeted individually, even if they're in a thread, this allows others to retweet the parts they find relevant/interesting while still clearly crediting the author.
+1. *Threading tweets*: Threading refers to a chain of tweets where each tweet is a reply to the one before it. This has several advantages. The first is that it keeps your followers' feed tidy. Since Twitter automatically collapses the middle of long threads, you're not taking up as much space as you would if you made each tweet individually. This also clearly maintains the chronological relationship of the  tweets, so anyone can read the thread and follow the course of the talk. 
+2. *Putting the author's last name in front of every tweet*: since tweets can be retweeted individually, even if they're in a thread, this allows others to retweet the parts they find relevant/interesting while still clearly crediting the author.
 	1. Two authors: If the paper has two authors, I use the “LastName1 & LastName2”.
 	2. More than two authors: If a paper has more than two authors, I use “LastName1 et al”.
-3. Starting with the title: This makes the content of the thread clear, and makes it easier for you to search later. (You can request and download your own complete Twitter history at any time.) Also, if the conference has a proceedings it makes it easier for someone to look up the specific paper.
-4. The conference hashtag: This organizes your tweets, helps others find the work if they're interested in finding out more and lets other conference attendees find your tweets. If you're quite positive that there isn't one already established, you can start your own. The most popular format is the acronym for the conference and either the year it takes place (for example: #EACL2017) or the number of the conference (ex: #NWAV44). Hashtags are not case-sensitive.
+3. *Starting with the title*: This makes the content of the thread clear, and makes it easier for you to search later. (You can request and download your own complete Twitter history at any time.) Also, if the conference has a proceedings it makes it easier for someone to look up the specific paper.
+4. *The conference hashtag*: This organizes your tweets, helps others find the work if they're interested in finding out more and lets other conference attendees find your tweets. If you're quite positive that there isn't one already established, you can start your own. The most popular format is the acronym for the conference and either the year it takes place (for example: #EACL2017) or the number of the conference (ex: #NWAV44). Hashtags are not case-sensitive.
 
 You can use whatever format you like, though, as long as you're consistent! To help people follow along, I have a quick summary of my tweet formatting conventions as my pinned tweet (one tweet that always appears as the top tweet of your Twitter profile):
 
 I'm currently alpha-testing an Android app that automates some of my formatting, and I'll be sure to share it once the developer's ready to release it.
 
-### General guidelines:
+### General guidelines
 
 Here are some basic guidelines I try to keep in mind when tweeting.
 
@@ -73,7 +73,7 @@ There are some things that I make a policy of not including when I livetweet, an
 	- It's relatively active. If they haven't tweeted since 2010, linking their account to a talk they've given probably isn't going to be helpful for anyone.
 	- Respect people's boundaries, even if they're unspoken. If you're not sure, err on the side of not tagging someone.
 - Don't tweet preliminary or unfinished work.
-- A good general rule is “Tweet unto others as you would have them tweet unto you”, and then err even a little more on the side of caution.
+- A good general rule is “*Tweet unto others as you would have them tweet unto you*”, and then err even a little more on the side of caution.
 
 ### How to shorten tweets that are too long
 
