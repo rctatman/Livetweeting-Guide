@@ -1,8 +1,7 @@
 ## Rachael Tatman's Guide to Conference Livetweeting
 
-Contents:
-
-- [General guidelines](general-guidelines)
+* TOC
+{:toc}
 
 ### What is livetweeting and why do it?
 In case you didn't know, I regularly livetweet conferences I go to. You can see some examples of what this looks like on my Twitter, [here](https://twitter.com/rctatman/moments).
