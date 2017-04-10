@@ -1,8 +1,7 @@
 ## Rachael Tatman's Guide to Conference Livetweeting
 
 ### What is livetweeting and why do it?
-
-So, if you didn't know, I livetweet conferences I go to. You can see some examples of what this looks like on my Twitter, [here](https://twitter.com/rctatman/moments).
+In case you didn't know, I regularly livetweet conferences I go to. You can see some examples of what this looks like on my Twitter, [here](https://twitter.com/rctatman/moments).
 
 Livetweeting can mean a lot of different things & everyone does it slightly differently, but for me livetweeting conferences is a way of taking notes on current research in a publicly-accessible format. My main goal is to accurately capture the main points of the authors' work clearly enough that someone who wasn't at the talk still has a good idea of what it was about. In addition to being a record of what talks I saw at a given conference (I probably go back and look at a talk I've livetweeted a couple times a month), I consider it service to the scientific community:
 
@@ -92,10 +91,12 @@ One of the unique challenges of tweeting as a medium is the strict character lim
 ### How to get better at livetweeting 
 
 -  Practice! I know it's trite, but it's true. You can try livetweeting talks from your field that have been posted on YouTube as a nice, low-stakes way to practice. Some channels that might be useful for this:
-	- [The University of Washington's Computer Science & Engineering department] (https://www.youtube.com/user/UWCSE)
-	- [MIT's linguistic department] (https://www.youtube.com/user/MITLINGUISTICS)
+	- [The University of Washington's Computer Science & Engineering department's channel](https://www.youtube.com/user/UWCSE)
+	- [MIT's linguistic department's channel](https://www.youtube.com/user/MITLINGUISTICS)
 - Follow the hashtags of conferences you're interested in, or look back at the ones from previous years. Notice what you find helpful  & what you don't.
 
 ### Other resources
-gretchen's post
-joanna's post “in defense of livetweeting”
+
+Gretchen McCulloch, [well-known internet linguist](http://allthingslinguistic.com/) and all-around cool person, has a great guide for getting started on Twitter & adivce on livetweeting [here](https://medium.com/@gretchenamcc/how-to-go-from-i-just-don-t-get-twitter-to-twitter-maven-in-30-days-bdbab2ad7783). 
+
+Joanna Bryson has a good discussion of some of the benefits (and possiblel drawbakcs) of livetweeting in a blog post [here](https://joanna-bryson.blogspot.com/2014/08/in-defense-of-live-tweeting-at-talks.html#!).
