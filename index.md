@@ -73,8 +73,8 @@ One of the unique challenges of tweeting as a medium is the strict character lim
 - Remove periods at the end of the tweet
 - Make sure you don't have any trailing spaces
 - Drop function words like pronouns & articles (you can look at newspaper headlines for some examples of how this can be done)
-- - “the final model included...” → “final model included...”
-- - "then we fitted the model to...” → “model fit to...”- 
+  “the final model included...” → “final model included...”
+  "then we fitted the model to...” → “model fit to...”- 
 - Replace “and” with “&” and “or” with “/” (where appropriate)
 - - “age and gender were both...” → “age & gender both”
 - Instead of using commas for a list, split it over multiple lines. Newline = one character, space + comma = two characters
