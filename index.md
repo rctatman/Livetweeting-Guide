@@ -4,6 +4,7 @@ Rachael Tatman's Guide to Conference Livetweeting
 
 I've gotten quite a few requests from folks for a guide to livetweeting conferences, so here it is! Feel free to contact me if you have any questions or concerns. (I'm @rctatman on [Twitter](https://twitter.com/rctatman) and [Github](https://github.com/rctatman).)
 
+I use the TalkTweeter app (Android only) to automate thread my livetweets. [You can get it here](https://play.google.com/store/apps/details?id=com.emerssso.livetweet&hl=en).
 * TOC
 {:toc}
 
